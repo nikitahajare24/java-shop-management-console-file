@@ -1,0 +1,2 @@
+NIKITA,nikita,123,Student
+GUDDI,guddi,1234,Student

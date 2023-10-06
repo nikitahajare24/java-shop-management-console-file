@@ -1,0 +1,2 @@
+sugar,1,11kg,110,A
+maida,2,10kg,120,A
